@@ -13,6 +13,7 @@ You can also tap the Deploy To Heroku button below to deploy straight to Heroku!
 Deploy
 
 
+
 The Hard Way
 virtualenv -p python3 VENV
 . ./VENV/bin/activate
