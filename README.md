@@ -4,6 +4,7 @@ An Open Source ALL-In-One Telegram RoBot, that can do lot of things.
 
 My Features:
 
+👉 All Supported Video Formats of https://rg3.github.io/youtube-dl/supportedsites.html
 
 👉 Upload as file from any HTTP link
 
@@ -12,7 +13,7 @@ The Easy Way
 You can also tap the Deploy To Heroku button below to deploy straight to Heroku!
 Deploy
 
-
+Watch our Video for Create own Bot - 👉 https://youtu.be/QkAkSLBgoYw
 
 The Hard Way
 virtualenv -p python3 VENV
